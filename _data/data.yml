@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Wonhee Jung
-    tagline: Bacnekd Software Engineer
+    tagline: Backend Software Engineer
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: wonhee.jung@gmail.com
+    email: 
     phone: 
     website: facebook.com/AaronJung #do not add http://
     linkedin: wonhee
