@@ -7,194 +7,111 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Wonhee Jung
+    tagline: Bacnekd Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: wonhee.jung@gmail.com
+    phone: 
+    website: facebook.com/AaronJung #do not add http://
+    linkedin: wonhee
+    github: freesoft
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@aaronjung'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 26741789-wonhee # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Korean
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Gaming/Streaming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I'm a software engineer who has been working on different environment/project for a decade(s). 
+      I started my first career with search engine/knowledge-management system company and accomplished many projects related to search engine indexing, 
+      search web service, contents/MMS server for mobile carriers in S.Korea, and voucher&dealer management system for Telkom Flexi in Indonesia, etc. 
+      I have joined at Blizzard Entertainment headquarter located in Irvine, California in 2011 to extend my career and experience. 
+      Since then, I have been working on for content management system, game franchise fan site blog/forum, game account management features, and 
+      now I am working on middleware backend which provides APIs for account management, login, payment, entitlement management, etc for a variety of clients in the company. 
+      I enjoy learning new things, not just limited to computer science and software development boundary, through book, conference, and nowadays mostly MOOC. 
+      In 2018, I've joined University of Illinois at Urbana-Champaign to study master's degree in Computer Science, mainly focusing on data science, text/data mining, and relevant math/statistics. 
+      I'll be graduating in 2021 Spring if everything goes smooth as planned.
+      I am also an avid gamer and game streamer. I play almost every Blizzard games, especially Overwatch nowadays, and also lots of other new games on Steam and PS4.
 
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: University of Illinois at Urbana-Champaign
+      time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Study for Computer Science at UIUC, focusing on data science/math/machine leanring area.
 
-          - Bullet point
-          - Bullet point
+          - CS 410: Text Information Systems
+          - CS 498 Applied Machine Learning
+          - CS 498: Cloud Computing Application
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Engineering
+      university: Dong-A University
+      time: 1996 - 2000
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Computer Engineering major at Dong-A University.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
-
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2011 - Present
+      company: Blizzard Entertainment, Irvine, California
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        
+        TO BE UPDATED
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      TO BE UPDATED
 
     assignments:
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
-    title: Publications
+    title: 
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title:
+        authors: 
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Spring Framework
         level: 85%
+        
+      - name: Python
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Scikit-learn/PyTorch
+        level: 70%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
