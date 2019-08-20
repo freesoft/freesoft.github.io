@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Wonhee Jung
-    tagline: Backend Software Engineer
+    tagline: Software Engineer
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,9 +56,11 @@ education:
       details: |
         Study for Computer Science at UIUC, focusing on data science/math/machine leanring area.
 
-          - CS 410: Text Information Systems
-          - CS 498 Applied Machine Learning
-          - CS 498: Cloud Computing Application
+          - CS 410: Text Information Systems(A)
+          - CS 498 Applied Machine Learning(A)
+          - CS 498: Cloud Computing Application(A)
+          - CS 513: Theory and practice of Data Cleaning(A+)
+          - CS 498: Data Visualization(A+)
 
     - degree: BSc in Computer Engineering
       university: Dong-A University
